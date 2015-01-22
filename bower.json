@@ -1,5 +1,5 @@
 {
-  "name": "socket",
+  "name": "socket.io",
   "main": "socket.io.js",
   "version": "1.2.0",
   "homepage": "https://github.com/DoubleSpring/socket.io",
